@@ -1,0 +1,19 @@
+{
+  "name": "investment_capital_analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alouirami/Flask_Informe_Facturas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alouirami/Flask_Informe_Facturas/issues"
+  },
+  "homepage": "https://github.com/alouirami/Flask_Informe_Facturas#readme"
+}
